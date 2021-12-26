@@ -1,16 +1,16 @@
-package com.cyscm.utils.algorithm;
+package com.cyscm.algorithm.array;
 
 /**
  * @author zhoutao
  */
-public class SparseAlgorithm{
+public class Sparse{
     public static void main(String[] args) {
-        Sparse.sparseAlgo();
+        SparseAlgorithm.sparseAlgo();
     }
 }
 
 
-class Sparse {
+class SparseAlgorithm {
 
     /**
      * 实现稀疏算法
